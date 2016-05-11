@@ -1,3 +1,5 @@
+# To find how to do stuff, google "Capybara sceatsheet"
+
 require 'pry'
 require 'jsoner'
 require './poltergeist.rb'
